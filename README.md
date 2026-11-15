@@ -1,3 +1,3 @@
 # superagent-sandbox
 
-Welcom to the superagent sandbox.
+Welcome to the superagent sandbox.
